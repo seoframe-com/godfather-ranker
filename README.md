@@ -43,7 +43,7 @@ Open-source unified SEO analytics dashboard for EU SMEs. Unify 8+ data sources (
 
 **Mariyani Group LTD** | Varna, Bulgaria  
 Yanko Ivanov Slavov (Founder & Product)  
-[LinkedIn](https://linkedin.com/in/yanko-ivanov-slavov) | [seoframe.com](https://seoframe.com/en/team/)
+[LinkedIn](https://www.linkedin.com/in/yanko-i-s/)) | [seoframe.com](https://seoframe.com/en/team/)
 
 ## License
 
