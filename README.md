@@ -1,5 +1,4 @@
 # godfather-ranker
-Godfather-Ranker
 
 # Godfather Ranker
 
